@@ -2,3 +2,12 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It creates the files that git uses to track the different versions, but does not
 populate it yet.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You use the staging area to define what you commit, so you add only what is the logical change.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches help to keep more than one different development lines.
