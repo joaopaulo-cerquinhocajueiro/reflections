@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates the files that git uses to track the different versions, but does not
+populate it yet.
