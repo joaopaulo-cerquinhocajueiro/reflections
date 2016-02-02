@@ -1,23 +1,28 @@
-What happens when you initialize a repository? Why do you need to do it?
+- What happens when you initialize a repository? Why do you need to do it?
 
 It creates the files that git uses to track the different versions, but does not
 populate it yet.
 
-How can you use the staging area to make sure you have one commit per logical change?
+- How can you use the staging area to make sure you have one commit per logical change?
 
 You use the staging area to define what you commit, so you add only what is the logical change.
 
-What are some situations when branches would be helpful in keeping your history
+- What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
 Branches help to keep more than one different development lines.
 
-How do the diagrams help you visualize the branch structure?
+- How do the diagrams help you visualize the branch structure?
 
 The diagrams permit to see the tree structure of the branches, which are not
 directly accessible by the log command.
 
-What is the result of merging two branches together? Why do we represent it in
+- What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 The result is a project with the modifications of both branches.
+
+- What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+Modifications on different parts of the code are merged without problem. 
