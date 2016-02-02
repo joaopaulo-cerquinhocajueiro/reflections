@@ -14,3 +14,8 @@ Branches are for test and variations of your own code (mostly). Clones are for
 making local copies of remote repositories that will be mostly synchronized.
 Forks are for different versions of a project on github - normally owned by
 different people.
+
+- What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+To resolve the conflicts and merge locally and keep the repository clean.
