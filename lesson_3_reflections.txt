@@ -1,8 +1,16 @@
 - When would you want to use a remote repository rather than keeping all your work local?
 
-When working on different computers or in groups. The remote serves to contralize the project.
+When working on different computers or in groups. The remote serves to centralize the project.
 
 - Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
 No reason to clutter the remote repository with experimenting or non-functional code.
+
+- Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+Branches are for test and variations of your own code (mostly). Clones are for
+making local copies of remote repositories that will be mostly synchronized.
+Forks are for different versions of a project on github - normally owned by
+different people.
